@@ -23,7 +23,6 @@ public class Main {
         }
         String result = Arrays.toString(numberArray);
         System.out.println(result.substring(1, result.length() - 1));
-        System.out.println("testing if repo linked in two places");
 
     }
 }
